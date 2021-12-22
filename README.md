@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-### Favourite Quotes
+### Favourite Quote
 
 > The moment you stop growing is the moment you die
 
