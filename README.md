@@ -1,16 +1,19 @@
-### Here is What I'm working on!  👋
+### Hi there , I'm Vince nice to meet you ;)
 
 
-
-Here are some ideas to get you started:
+### Web-dev Journey
 
 - 🔭 I’m currently working for Pricefx-company
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on React.js
 - 📫 How to reach me: nguyenquangv95@gmail.com
-- 🥅 2021 Goals: Expands my skill-sets ( GraphQL ,AWS , CI/CD , NextJS , etc )
+- 🥅 2021 Goals: Expands my skill-sets ( GraphQL , AWS , CI/CD , NextJS , etc )
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+
+### Favourite Quotes
+
+> The moment you stop growing is the moment you die
 
 
 ### Languages and Tools:
