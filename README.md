@@ -6,7 +6,7 @@
 - 🔭 I’m currently working for Pricefx-company
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on React.js
-- 📫 How to reach me: nguyenquangv95@gmail.com
+- 📫 How to reach me :email: nguyenquangv95@gmail.com
 - 🥅 2021 Goals: Expands my skill-sets ( GraphQL , AWS , CI/CD , NextJS , etc )
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
