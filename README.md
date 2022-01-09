@@ -7,7 +7,17 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on React.js
 - 📫 How to reach me :email: nguyenquangv95@gmail.com
-- 🥅 2021 Goals: Expands my skill-sets ( GraphQL , AWS , CI/CD , NextJS , etc )
+- 🥅 2022 Goals: Expands my skill-sets 
+   - [x] Component Library [in-progress]
+   - [x] Power up CSS skills [in-progress]
+   - [x] UX/UI layout [in-progress]
+   - [ ] Story-book
+   - [ ] AWS
+   - [ ] GraphQL
+   - [ ] Next-JS
+   - [ ] CI/CD
+
+
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
