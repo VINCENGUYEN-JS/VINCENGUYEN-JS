@@ -3,7 +3,7 @@
 
 ### Web-dev Journey
 
-- 🔭 I’m currently working for Pricefx-company
+- 🔭 I’m currently working for Pricefx
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on React.js
 - 📫 How to reach me :email: nguyenquangv95@gmail.com
