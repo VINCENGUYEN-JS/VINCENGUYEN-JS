@@ -11,7 +11,7 @@
    - [x] Component Library [in-progress]
    - [x] Power up CSS skills [in-progress]
    - [x] UX/UI layout [in-progress]
-   - [ ] Story-book
+   - [x] Story-book
    - [ ] AWS
    - [ ] GraphQL
    - [ ] Next-JS
