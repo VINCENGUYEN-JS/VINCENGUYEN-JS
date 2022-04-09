@@ -13,7 +13,7 @@
    - [x] UX/UI layout [in-progress]
    - [x] Story-book
    - [ ] AWS
-   - [ ] GraphQL
+   - [x] GraphQL
    - [ ] Next-JS
    - [ ] CI/CD
 
