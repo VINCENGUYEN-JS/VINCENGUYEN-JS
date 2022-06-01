@@ -17,6 +17,7 @@
    - [ ] Next-JS
    - [ ] CI/CD
    - [x] ReactQuery
+   - [ ] React18
 
 
 - ⚡ Fun fact: I love to draw and play guitar / drums
