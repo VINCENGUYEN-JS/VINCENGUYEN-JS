@@ -15,6 +15,7 @@
    - [ ] Fullstack for FE Engineers
    - [ ] Docker(Advanced)
    - [ ] VIM
+   - [x] NextJS
 
 - :open_book: BOOKS CURRENTLY READ ON
    - THE LINUX COMMAND LINE (2nd EDITION) 
