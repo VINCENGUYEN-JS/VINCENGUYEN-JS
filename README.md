@@ -15,6 +15,9 @@
    - [ ] Fullstack for FE Engineers
    - [ ] Docker(Advanced)
    - [ ] VIM
+   - [x] React-testing-library
+   - [ ] Cypress for Automation Testing
+   - [x] Web Accessibility
    - [x] NextJS
 
 - :open_book: BOOKS CURRENTLY READ ON
