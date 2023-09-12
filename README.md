@@ -1,11 +1,11 @@
-### Hi there , I'm Vince nice to meet you ;)
+### 👋 I'm Vince 
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=VINCENGUYEN-JS&color=green" alt="Vince Nguyen"/></p>
 
 ### Web-dev Journey
-
 - 🔭 I’m currently developing FE features for Pricefx (pricing software company)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on React.js
+- 🌱 I’m currently learning new things on design system
+- 👯 I’m looking to collaborate on FE world
 - 📫 How to reach me :email: nguyenquangv95@gmail.com
 - :shopping_cart:  **2023 Goals**
    - [ ] Linux Advanced
@@ -16,12 +16,13 @@
    - [ ] Docker(Advanced)
    - [ ] VIM
    - [x] React-testing-library
-   - [ ] Cypress for Automation Testing
+   - [x] Cypress for Automation Testing
    - [x] Web Accessibility
    - [x] NextJS
 
 - :open_book: BOOKS CURRENTLY READ ON
-   - THE LINUX COMMAND LINE (2nd EDITION) 
+   - THE LINUX COMMAND LINE (2nd EDITION)
+   - REFACTORING UI (by Adam Wathan & Steve Schoger)
 
 
 - :trophy: **2022 Overview**
