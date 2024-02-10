@@ -7,29 +7,38 @@
 - 🌱 I’m currently learning new things on design system
 - 👯 I’m looking to collaborate on FE world
 - 📫 How to reach me :email: nguyenquangv95@gmail.com
-- :shopping_cart:  **2023 Goals**
-   - [ ] Linux Advanced
-   - [ ] AWS
-   - [ ] CSS animation (Advanced)
-   - [ ] Figma (Advanced)
-   - [ ] Fullstack for FE Engineers
-   - [ ] Docker(Advanced)
-   - [ ] VIM
-   - [x] React-testing-library
+
+  
+- 📓 **2024 Goals**
+   - [ ] Bash-scripting
+   - [ ] Design system
+   - [ ] Dive-deep NodeJS
+   - [ ] Dive-deep JS landscape
+   - [ ] Leetcodes, data-structures and algorithms
+     
+ - :open_book: BOOKS HAS BEEN CURRENTLY READ ON
+   - Design Web API (by Arnaud Lauret)
+
+   
+- 🏆  **2023 Overview**
    - [x] Cypress for Automation Testing
-   - [x] Web Accessibility
    - [x] NextJS
+   - [x] React-testing-library
+   - [x] Web Accessibility
+   - [x] Writting my own technical-blogs
+      
 
-- :open_book: BOOKS CURRENTLY READ ON
-   - THE LINUX COMMAND LINE (2nd EDITION)
-   - REFACTORING UI (by Adam Wathan & Steve Schoger)
+- :open_book: BOOKS HAS BEEN READ FOR THIS YEAR
+   - The Unix Command line (2nd EDITION)
+   - Refactoring UI (by Adam Wathan & Steve Schoger)
+   - Secrets of the JavaScript Ninja(by Bear Bibeault and John Resig)
 
 
-- :trophy: **2022 Overview**
+- 🏆 **2022 Overview**
+   - [x] CSS Animation (Basic) 
    - [x] Component Library 
    - [x] Component Layout
    - [x] Docker Basic
-   - [x] CSS Animation (Basic) 
    - [x] Linux (Basic)
    - [x] GraphQL (Basic)
    - [x] ReactQuery
